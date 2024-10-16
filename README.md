@@ -91,6 +91,12 @@ Select RDP protocol
 <img src="https://i.imgur.com/0yloXEy.png">
 <img src="https://i.imgur.com/yCqfbiJ.png">
 
+<h2>Enable extensions</h2>
+<img src="https://i.imgur.com/Vu14YDI.png">
+<img src="https://i.imgur.com/Qx8xQ5K.png">
+<img src="https://i.imgur.com/hUE6rTE.png">
+<img src="https://i.imgur.com/I4ney0V.png">
+<img src="https://i.imgur.com/SVlPZ8J.png">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
