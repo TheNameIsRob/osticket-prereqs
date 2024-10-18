@@ -89,7 +89,9 @@ Select RDP protocol
 <img src="https://i.imgur.com/wz79Jmf.png">
 <img src="https://i.imgur.com/PoP6GTr.png">
 <img src="https://i.imgur.com/0yloXEy.png">
+<h4>Name this rename the default upload folder as "osTicket"</h4></h4>
 <img src="https://i.imgur.com/yCqfbiJ.png">
+
 
 <h2>Enable extensions</h2>
 <img src="https://i.imgur.com/Vu14YDI.png">
@@ -97,6 +99,30 @@ Select RDP protocol
 <img src="https://i.imgur.com/hUE6rTE.png">
 <img src="https://i.imgur.com/I4ney0V.png">
 <img src="https://i.imgur.com/SVlPZ8J.png">
+<h4>Go back to ISS , refresh< and click Browse;*80(http) to view osTicket and view the required pre-requisites/h4>
+<img src="https://i.imgur.com/LfHZPGE.png">
+<img src="https://i.imgur.com/TIRNJ3O.png">
+<img src="https://i.imgur.com/M76sWww.png">
+
+
+<h2>Search for ost-sampleconfig.php and rename to ost-config.php</h2>
+<img src="https://i.imgur.com/hK9dYhR.png">
+<img src="https://i.imgur.com/KipgOqW.png">
+
+<h2>Assign Permissions</h2>
+<h4>(This will fully enable us to use osTicket freely)</h4>
+<img src="https://i.imgur.com/ZcPw5NC.png">
+<img src="https://i.imgur.com/ZcPw5NC.png">
+<img src="https://i.imgur.com/9I6DGYo.png">
+<img src="https://i.imgur.com/c9l1ZM5.png">
+<img src="https://i.imgur.com/080a3tG.png">
+<img src="https://i.imgur.com/GORCarf.png">
+
+<h2>Enter in credentials for your admin account</h2>
+<img src="https://i.imgur.com/9gKg2ov.png">
+
+<h2>Download HeidiSQL and creat a database for osTicket</h2>
+<img src="https://i.imgur.com/8hMWJoU.png">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
